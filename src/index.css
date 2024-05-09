@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h5 {
+  padding: 1rem;
+  font-family: cursive;
+}
+
+p {
+  padding: 0.4rem;
+}
+
+img {
+  width: 100%;
+}
+
+.avatar {
+  width: 250px;
+}
+
+.container {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  border: 2px solid black;
+  width: 250px;
+  height: auto;
+  margin: 2.4rem auto;
+}
+
+.data {
+  padding: 0.5rem;
+}
+
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.skill {
+  padding: 0.4rem;
+  border-radius: 0.5rem;
+}
